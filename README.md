@@ -30,3 +30,9 @@ Lot 1 and Lot 2 do not exceed 100 pounds per square inch as seen in the table ab
 <img width="572" alt="Screen Shot 2021-02-26 at 1 15 03 PM" src="https://user-images.githubusercontent.com/72036895/109350635-0e183780-7835-11eb-9b2d-994521dc4ad8.png">
 
 Assuming our significance level was the common 0.05 percent, our p-value is above our significance level at 1. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
+
+# Deliverable 4
+
+## Study Design: MechaCar vs Competition
+
+When consumers are looking at buying a new car one feature that catches their attention is fuel effiency and cost. Metrics we would use to measure this would be price of the car and mpg. We can assess ourselves from the competition by gathering these two sets of information (MPG and price) from the competition. We will state our nill hypothesis as MechaCar is not better than the compeition and our alternative as the opposite. To preform this comparison we will need to conduct a t-test.
